@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Hishaam Abdul Razik
+N;CHARSET=UTF-8:Abdul Razik;Hishaam;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:hishaam@ampierelabs.com
+TEL;TYPE=WORK,VOICE:+971585513710
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;United Arab Emirates
+TITLE;CHARSET=UTF-8:Co-Founder
+ORG;CHARSET=UTF-8:AmpiereLabs
+URL;type=WORK;CHARSET=UTF-8:https://ampierelabs.com
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/hishaam-abdul/
+REV:2025-04-22T20:14:58.405Z
+END:VCARD
