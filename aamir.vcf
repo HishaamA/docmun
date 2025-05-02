@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Aamir Abdul Azeez
+N;CHARSET=UTF-8:Abdul Azeez;Aamir;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:aamir@ampierelabs.com
+TEL;TYPE=WORK,VOICE:+971581585961
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;United Arab Emirates
+TITLE;CHARSET=UTF-8:Co-Founder & CTO
+ORG;CHARSET=UTF-8:AmpiereLabs
+URL;type=WORK;CHARSET=UTF-8:https://ampierelabs.com
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/aamir-azeez/
+REV:2025-04-22T20:14:58.405Z
+END:VCARD
